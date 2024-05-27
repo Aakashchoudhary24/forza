@@ -1,2 +1,2 @@
 # Forza
-A health tracker tool for all your needs:]
+A health tracker tool built in React for all your needs:]
